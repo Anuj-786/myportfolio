@@ -519,3 +519,6 @@ div#maincontent {
 .profile-image {
   border-radius: 130px;
 }
+.portfolio-item {
+    box-shadow: 1px 0px 8px 0px;
+}
